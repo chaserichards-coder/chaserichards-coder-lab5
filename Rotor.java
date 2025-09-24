@@ -13,7 +13,7 @@ public class Rotor {
     }
     
     public boolean rotate(){
-        //TODO
+        temp = 0;
                
     }
     
